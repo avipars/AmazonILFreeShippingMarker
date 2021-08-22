@@ -10,7 +10,13 @@ v0.2.3 -
 TODO:
 Make video tutorial on how to sideload chrome extension
 
-
+Installation
+Download this repository
+Open Chrome
+Go to 'Extensions' (chrome://extensions/)
+Enable 'Developer mode'
+Click 'Load unpacked extension'
+Select the  folder from this repository
 
 Group - https://www.facebook.com/groups/israelamazon
 

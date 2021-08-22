@@ -29,9 +29,6 @@ chrome.extension.sendMessage({}, function(response) {
     }, 10);
 });
 
-
-
-
 function amazonShippingMarker(debug = false) {
     this.currentPage = location.href;
     this.styleClass = 'amazonFreeShipping';

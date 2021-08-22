@@ -15,12 +15,12 @@
         "default_popup": "src/popup/popup.html"
     },
     "permissions": [
-        "https://www.amazon.com/*",
+        "https://*.amazon.com/*",
         "storage"
     ],
     "content_scripts": [{
             "matches": [
-                "https://www.amazon.com/*"
+                "https://*.amazon.com/*"
             ],
             "css": [
                 "src/code/styles.css"
@@ -28,7 +28,7 @@
         },
         {
             "matches": [
-                "https://www.amazon.com/*"
+                "https://*.amazon.com/*"
             ],
             "js": [
                 "src/code/jquery.min.js",
