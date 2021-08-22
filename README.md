@@ -35,7 +35,7 @@ v0.2.2 -
 - Fixed issue when product price is lower than $49 but colored as product above $49
 - Added support for extension icon in Dark Theme
 
-v0.2.2 - 
+v0.2.3 - 
 - Added the new requirement of $65
 - As this is a forked version, please download and unpack extension to load into chrome
 
