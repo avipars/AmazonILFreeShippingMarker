@@ -37,6 +37,7 @@ function amazonShippingMarker(debug = false) {
     this.inOrdersHistory = (this.currentPage.indexOf('/order-history') != -1) ? true : false;
     this.inCatalog = (!this.inCart && !this.inProduct && !this.inOrdersHistory) ? true : false;
     this.debug = debug;
+
     this.messages = {
         'countryOnly': 'FREE Shipping to Israel',
         'countryAndAmount': 'Eligible for FREE Shipping on qualifying orders over $65.00',
@@ -264,6 +265,10 @@ amazonShippingMarker.prototype = {
                         'color': (this.default_colors.freeShippingUnder49.text) ? '#ffffff' : 'inherit'
                     });
                     $('div#price:contains("' + this.messages.countryAndQualified + '"),div#price:contains("' + this.messages.countryAndQualified2 + '")').addClass(this.styleClass).css({
+                        'background-color': this.default_colors.freeShippingUnder49.bg,
+                        'color': (this.default_colors.freeShippingUnder49.text) ? '#ffffff' : 'inherit'
+                    });
+                    $('div#price:contains("' + this.messages.countryAndQualified + '"),div#price:contains("' + this.messages.eligible1 + '")').addClass(this.styleClass).css({
                         'background-color': this.default_colors.freeShippingUnder49.bg,
                         'color': (this.default_colors.freeShippingUnder49.text) ? '#ffffff' : 'inherit'
                     });
