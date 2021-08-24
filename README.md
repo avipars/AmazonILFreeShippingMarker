@@ -21,3 +21,5 @@ Or follow this video: https://youtu.be/RI1adyYleLU
 Group - https://www.facebook.com/groups/israelamazon
 
 Links - https://www.aviparshan.com/israeldeals/index.html
+
+Automatic Search Filter for Free Ship Items - https://www.aviparshan.com/amazonsearch.html
