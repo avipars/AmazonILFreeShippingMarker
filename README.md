@@ -22,4 +22,4 @@ Group - https://www.facebook.com/groups/israelamazon
 
 Links - https://www.aviparshan.com/israeldeals/index.html
 
-Automatic Search Filter for Free Ship Items - https://www.aviparshan.com/amazonsearch.html
+Automatic Search Filter for Free Ship Items - https://www.aviparshan.com/israeldeals/freeshipping.html
