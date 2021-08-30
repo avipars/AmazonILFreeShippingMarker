@@ -18,7 +18,7 @@ Installation -
 
 Or follow this video: https://youtu.be/RI1adyYleLU
 
-Group - https://www.facebook.com/groups/israelamazon
+Group - https://www.facebook.com/groups/shopisrael
 
 Links - https://www.aviparshan.com/israeldeals/index.html
 
