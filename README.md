@@ -1,4 +1,4 @@
-# Amazon-Israel Free Shipping Marker
+#  Free Shipping Marker
 Google Chrome extension that helps to see which product is shipping free to Israel and helps you tracking your orders from one place.
 
 See it in action: https://www.youtube.com/watch?v=wiJq3BskGno
