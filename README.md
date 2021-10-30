@@ -3,8 +3,8 @@ Google Chrome extension that helps to see which product is shipping free to Isra
 
 See it in action: https://www.youtube.com/watch?v=wiJq3BskGno
 
-v0.2.3 - 
-- Added the new requirement of $65
+v0.2.4 - 
+- Added the new requirement of $49
 - As this is a forked version, please download and unpack extension to load into chrome
 
 
